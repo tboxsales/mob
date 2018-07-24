@@ -2337,8 +2337,8 @@ body {
   padding-bottom: 1.5rem;
 }
 .cid-qPI8QVS9bP {
-  padding-top: 15px;
-  padding-bottom: 15px;
+  padding-top: 45px;
+  padding-bottom: 45px;
   background-image: url("../../../assets/images/jumbotron.jpg");
 }
 .cid-qPI3euLPeS {
@@ -2492,9 +2492,9 @@ body {
   color: #a8d455;
 }
 .cid-qPLHra5sPM {
-  padding-top: 15px;
-  padding-bottom: 15px;
-  background-image: url("../../../assets/images/jumbotron2.jpg");
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-image: url("../../../assets/images/mbr-8-1920x1280.jpg");
 }
 .cid-qPACH49lIy {
   padding-top: 15px;
@@ -2537,6 +2537,73 @@ body {
 }
 .cid-qPACH49lIy .mbr-text I {
   color: #149dcc;
+}
+.cid-qYFBwTSE3K {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-image: url("../../../assets/images/mbr-1920x1210.jpg");
+}
+.cid-qYFBwTSE3K .mbr-section-subtitle {
+  color: #149dcc;
+}
+.cid-qYFA5ZkAfm {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-image: url("../../../assets/images/mbr-7-1920x1280.jpg");
+}
+.cid-qYFA5ZkAfm .mbr-section-text {
+  color: #767676;
+}
+.cid-qYFA5ZkAfm .mbr-section-subtitle {
+  color: #0f7699;
+}
+.cid-qYFA5ZkAfm .tabcont {
+  -webkit-justify-content: center;
+  justify-content: center;
+}
+.cid-qYFA5ZkAfm .mbr-iconfont {
+  font-size: 48px;
+}
+.cid-qYFA5ZkAfm .card-img {
+  margin-bottom: 1.5rem;
+}
+.cid-qYFA5ZkAfm .tab-content-row {
+  -webkit-justify-content: center;
+  justify-content: center;
+}
+.cid-qYFA5ZkAfm .tab-content {
+  margin-top: 3rem;
+  width: 100%;
+}
+.cid-qYFA5ZkAfm .nav-tabs {
+  -webkit-justify-content: center;
+  justify-content: center;
+  -webkit-flex-wrap: wrap;
+  flex-wrap: wrap;
+  border-bottom: none;
+}
+.cid-qYFA5ZkAfm .nav-tabs .nav-link {
+  box-sizing: border-box;
+  color: #767676;
+  font-style: normal;
+  font-weight: 500;
+  border-radius: 3px;
+  padding: 1rem 3rem;
+  margin: 0.4rem .8rem !important;
+  transition: color .3s;
+  border: 2px solid #767676;
+}
+.cid-qYFA5ZkAfm .nav-tabs .nav-link:hover {
+  background: #149dcc;
+}
+.cid-qYFA5ZkAfm .nav-tabs .nav-link.active {
+  color: #ffffff;
+  font-style: normal;
+  border: 2px solid #149dcc;
+  background: #149dcc;
+}
+.cid-qYFA5ZkAfm .nav-tabs .nav-link.active:hover {
+  border: 2px solid #149dcc;
 }
 .cid-qOo5S8aJ3H {
   padding-top: 0px;
